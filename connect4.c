@@ -6,7 +6,6 @@
 bool game_over = false;
 
 int turn = 0;
-int rows = 6;
 char col;
 
 // Initialize Gameboard
