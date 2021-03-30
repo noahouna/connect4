@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdbool.h>
-//#define true 1
-//#define false 0
 
 bool game_over = false;
 
